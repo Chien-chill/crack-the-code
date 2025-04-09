@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "E_Roman-to-Int/1.0.0": {
+        "runtime": {
+          "E_Roman-to-Int.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E_Roman-to-Int/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

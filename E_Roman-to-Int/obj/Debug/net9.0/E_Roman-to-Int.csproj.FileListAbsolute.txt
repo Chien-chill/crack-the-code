@@ -1,0 +1,15 @@
+D:\LeetCode_Tutorial\E_Roman-to-Int\bin\Debug\net9.0\E_Roman-to-Int.exe
+D:\LeetCode_Tutorial\E_Roman-to-Int\bin\Debug\net9.0\E_Roman-to-Int.deps.json
+D:\LeetCode_Tutorial\E_Roman-to-Int\bin\Debug\net9.0\E_Roman-to-Int.runtimeconfig.json
+D:\LeetCode_Tutorial\E_Roman-to-Int\bin\Debug\net9.0\E_Roman-to-Int.dll
+D:\LeetCode_Tutorial\E_Roman-to-Int\bin\Debug\net9.0\E_Roman-to-Int.pdb
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\E_Roman-to-Int.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\E_Roman-to-Int.AssemblyInfoInputs.cache
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\E_Roman-to-Int.AssemblyInfo.cs
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\E_Roman-to-Int.csproj.CoreCompileInputs.cache
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\E_Roman-to-Int.sourcelink.json
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\E_Roman-to-Int.dll
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\refint\E_Roman-to-Int.dll
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\E_Roman-to-Int.pdb
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\E_Roman-to-Int.genruntimeconfig.cache
+D:\LeetCode_Tutorial\E_Roman-to-Int\obj\Debug\net9.0\ref\E_Roman-to-Int.dll

@@ -1,7 +1,7 @@
 ﻿using System.Runtime.CompilerServices;
 
 namespace E_Two_Sum;
-public class Solution
+public class Program
 {
     // ? https://leetcode.com/problems/two-sum/
     public int[] TwoSum(int[] nums, int target)
@@ -38,5 +38,11 @@ public class Solution
             }
         }
         return new int[] { -1, -1 };
+
+    }
+
+    static void Main(string[] args)
+    {
+
     }
 }

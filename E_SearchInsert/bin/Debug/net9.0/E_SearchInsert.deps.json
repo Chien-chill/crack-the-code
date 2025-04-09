@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "E_SearchInsert/1.0.0": {
+        "runtime": {
+          "E_SearchInsert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E_SearchInsert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
